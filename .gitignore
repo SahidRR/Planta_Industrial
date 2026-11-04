@@ -1,0 +1,31 @@
+Archivos de caché de Python
+
+pycache/
+src/pycache/
+*.pyc
+*.pyo
+
+Archivos del sistema operativo (macOS)
+
+.DS_Store
+._*
+
+Entornos virtuales (si usas venv o conda)
+
+.venv/
+venv/
+env/
+
+Configuración de editores (VS Code, PyCharm)
+
+.vscode/
+.idea/
+
+Descargas automáticas del modelo de MuJoCo (Menagerie)
+
+vendor/
+mujoco_menagerie/
+
+Capturas temporales generadas automáticamente (opcional)
+
+capturas/mosaico_*.png
