@@ -23,8 +23,7 @@ Configuración de editores (VS Code, PyCharm)
 
 Descargas automáticas del modelo de MuJoCo (Menagerie)
 
-vendor/
-mujoco_menagerie/
+vendor/mujoco_menagerie/
 
 Capturas temporales generadas automáticamente (opcional)
 
